@@ -1,0 +1,11 @@
+C:\Users\Facu\Documents\Ingenieria\NET\AdivinaNumero\AdivinaNumero\bin\Debug\net8.0\AdivinaNumero.deps.json
+C:\Users\Facu\Documents\Ingenieria\NET\AdivinaNumero\AdivinaNumero\bin\Debug\net8.0\AdivinaNumero.dll
+C:\Users\Facu\Documents\Ingenieria\NET\AdivinaNumero\AdivinaNumero\bin\Debug\net8.0\AdivinaNumero.pdb
+C:\Users\Facu\Documents\Ingenieria\NET\AdivinaNumero\AdivinaNumero\obj\Debug\net8.0\AdivinaNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Facu\Documents\Ingenieria\NET\AdivinaNumero\AdivinaNumero\obj\Debug\net8.0\AdivinaNumero.AssemblyInfoInputs.cache
+C:\Users\Facu\Documents\Ingenieria\NET\AdivinaNumero\AdivinaNumero\obj\Debug\net8.0\AdivinaNumero.AssemblyInfo.cs
+C:\Users\Facu\Documents\Ingenieria\NET\AdivinaNumero\AdivinaNumero\obj\Debug\net8.0\AdivinaNumero.csproj.CoreCompileInputs.cache
+C:\Users\Facu\Documents\Ingenieria\NET\AdivinaNumero\AdivinaNumero\obj\Debug\net8.0\AdivinaNumero.dll
+C:\Users\Facu\Documents\Ingenieria\NET\AdivinaNumero\AdivinaNumero\obj\Debug\net8.0\refint\AdivinaNumero.dll
+C:\Users\Facu\Documents\Ingenieria\NET\AdivinaNumero\AdivinaNumero\obj\Debug\net8.0\AdivinaNumero.pdb
+C:\Users\Facu\Documents\Ingenieria\NET\AdivinaNumero\AdivinaNumero\obj\Debug\net8.0\ref\AdivinaNumero.dll
